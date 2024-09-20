@@ -1,5 +1,5 @@
 {
-  "name": "@bangngoduy/mailer",
+  "name": "@ndvn-05594/mailer",
   "version": "2.0.4",
   "private": false,
   "description": "NestJS - a mailer module (@mailer)",
@@ -9,13 +9,13 @@
     "mailer",
     "nodejs"
   ],
-  "homepage": "https://github.com/bangngoduy/mailer#readme",
+  "homepage": "https://github.com/055594/mailer#readme",
   "bugs": {
-    "url": "https://github.com/bangngoduy/mailer/issues"
+    "url": "https://github.com/055594/mailer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bangngoduy/mailer.git"
+    "url": "git+https://github.com/055594/mailer.git"
   },
   "license": "MIT",
   "author": "Nest Modules TM",
